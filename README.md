@@ -21,12 +21,5 @@ I'm currently pursuing my Bachelor's Degree in **computer science and engineerin
 
 
 ## My Github Stats 
-![iniyan](https://github-readme-stats.vercel.app/api/top-langs/?username=in1yan&theme=gruvbox&show_icons=true)
-
-<br>
-
-----
-
-<br>
-
-![my stats](https://github-readme-stats.vercel.app/api?username=in1yan&theme=gruvbox&show_icons=true)
+![in1yan's Stats](https://github-readme-stats.vercel.app/api?username=in1yan&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![in1yan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in1yan&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
