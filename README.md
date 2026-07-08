@@ -18,7 +18,7 @@ I'm currently pursuing my Bachelor's Degree in **computer science and engineerin
 ![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=whitem)
 ![react native](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-
+![codewars](https://www.codewars.com/users/in1y4n/badges/large)
 
 ## My Github Stats 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=in1yan&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=rose_pine)](https://github-stats-extended.vercel.app/api?username=in1yan&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=rose_pine)
